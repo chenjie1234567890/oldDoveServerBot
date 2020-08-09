@@ -1,0 +1,37 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "a discord bot for old dove server",
+  "main": "index.js",
+  "scripts": {
+    "test": "ods test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenjie1234567890/oldDoveServerBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "minecraft",
+    "server"
+  ],
+  "author": "JieBrother",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenjie1234567890/oldDoveServerBot/issues"
+  },
+  "homepage": "https://github.com/chenjie1234567890/oldDoveServerBot#readme",
+  "dependencies": {
+    "async-limiter": "^2.0.0",
+    "booru": "^2.3.2",
+    "discord.js": "^12.2.0",
+    "enmap": "^5.6.1",
+    "lodash": "^4.17.19",
+    "long": "^4.0.0",
+    "prism-media": "^1.2.2",
+    "snekfetch": "^4.0.4",
+    "tweetnacl": "^1.0.3",
+    "ws": "^7.3.1"
+  }
+}
