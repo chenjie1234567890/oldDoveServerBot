@@ -3,7 +3,7 @@
 +status 查看服务器状态
 +setu 发一张色图
 
-需要手动创建config.json
+需要在根目录下手动创建config.json
 ```
 {
     "token": "你的token",
